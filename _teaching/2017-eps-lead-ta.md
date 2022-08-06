@@ -4,7 +4,7 @@ collection: teaching
 type: "Lead TA"
 permalink: /teaching/2017-eps-lead-ta
 venue: "University of Tehran"
-date: 2017-2018
+date: 2017-01-01
 location: "Tehran, Iran"
 ---
 
