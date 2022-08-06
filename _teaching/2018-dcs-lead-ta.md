@@ -4,7 +4,7 @@ collection: teaching
 type: "Lead TA"
 permalink: /teaching/2018-dcs-lead-ta
 venue: "University of Tehran"
-date: 2018-2019
+date: 2018-01-01
 location: "Tehran, Iran"
 ---
 
