@@ -2,7 +2,7 @@
 title: "Computational Neuroscience Reular TA"
 collection: teaching
 type: "Summer School"
-permalink: /teaching/2021-nma-regular-ta.md
+permalink: /teaching/2021-nma-regular-ta
 venue: "Neuromatch Academy"
 date: 2021-07-01
 location: "Online"
