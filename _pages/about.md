@@ -19,13 +19,15 @@ Started my masters at the same university, Straight
 Took machine learning courses
 interested in system neuroscience
 
-
 Projects related to Computational Neuroscience
 ======
 1. Comparison of cateorical representation dynamics within inferior-temporal and pre-frontal cortex
-2. Quantification of local field's information of spatial cues in macaque's frontal eye field
+   1. Using single unit data gathered from non-human primates
+   2. Using electroencephalographic recordings from humans
+2. Quantification of local field's information of spatial cues in macaque's frontal eye field in different cognitive states
 3. Effects of L-Arginine and L-Name on spectral features of prefrontal cortex in Streptozotocin-induced models of alzheimer
-4. Altertion of neural connectivity on Alzheimer model in rats
+4. Altertion of neural connectivity in Alzheimer model of rodents
+5. Categorical representation dynamics of human brain, a SEEG study
 
 Other Projects
 ------
@@ -34,7 +36,8 @@ Other Projects
 3. Rats as a visual model: How are Gabor stimuli characteristics decoded in hooded rats primary visual cortex?
 4. Developing a table-mounted, low-cost, realtime eye-tracking system (as the bachelor's thesis)
 5. Designing CT-Scan based surgical head-posts and recording chambers for macaques
-6. Designing a basic stereotactic apparatus neeed for a specific electrode implanting surgery routine
+6. Designing a basic stereotactic apparatus neeed for a specific electrode implanting surgery routine 
+7. Hich Pich: A deep learning based approach to predict NFT prices based on the corresponding images
 
 <!-- 
 Create content & metadata

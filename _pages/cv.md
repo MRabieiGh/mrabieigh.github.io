@@ -11,30 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Electrical Engineering, University of Tehran, 2015
-* M.Sc. in Electrical Engineering, University of Tehran, 2019
+* B.Sc. in Electrical Engineering (18.48/20.00), University of Tehran, 2015
+* M.Sc. in Electrical Engineering (19.14/20.00), University of Tehran, 2019
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+
+Selected Courseware
+======
+* Undergraduate
+  * Engineering Mathematics, Signals and Systems, Digital Signal Processing
+  * Calculus I/II, Linear Algebra, Engineering Probaility and Statistics, Operations Research
+  * Reinforcement Learning(Graduate), Advanced Programming, Computer Architecture, Operating Systems, Network Security
+  * Linear Control Systems, Modern Control Systems, Digital Control Systems, Instrumentations, Mechatronics
+  * Electrical Circuits I/II, Electronics I/II, Telecommunication Systems
+* Graduate
+  * Machine Learning, Statistical Inference, System Identification, An Intro to Cogntive Neuroscience
+  * An Intro to Neural Networks and Deep Learning, Advanced Deep Learning
+  * Nonlinear Control, Optimal Control
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2021: Research and Development Expert
+  * Farmed Tajhiz
+  * Duties included: Hardware development of a realtime eye tracking system
 
-* Fall 2015: Research Assistant
+<!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Continuous-time signal processing
+* Discrete-time signal processing
+* Programming
+  * MATLAB
+  * Python
+  * C/C++
+  * R
+* Statistical Analysis
+* Cognitive Task Design and Development, using Psychtoolbox, Psychopy and NIMH MonkeyLogic
+* CAD, using Adobe Inventor and SolidWorks
+* Latex
 
 Publications
 ======
@@ -56,4 +73,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Managed Brain Computation Lab (BCoL) for 2 consecutive years
+* Supervised 2 summer interns at BCoL
+* Co-created course materials for Enineering Probability and Statistics course, under supervision of Prof. Dehaqani
+* Coordinated multiple coursewares and several teaching assistant groups as lead TA at university of Tehran
