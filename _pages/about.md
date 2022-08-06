@@ -10,34 +10,22 @@ redirect_from:
 
 I am Mohammad Rabiei. I was born in Farokhshahr, Iran. I currently reside in Tehran, studying electrical engineering at Univrsity of Tehran.
 
-Academic Background
+Background
 ======
-Interested in mathematics and physics, I recieved my diploma in National Organization for Development of Exceptional Talents (NODET). 
+Ever since I was a child, I was fascinated by the academia. No wonder that everyone in my family anticipated me pursuing research life, being a worm-book all over my adolescence. I was passionate about learning, about finding the answers to my questions. However, as I attended the electrical engineering department as a bachelor's student, that passion started to degrade. It took me awhile to finally realize that I would rather to be a scientist and not an engineer.
+
+During my bachelor's, I developed an efficient, low-cost eye-tracking system for our laboratory under the supervision of Dr. Abolqasemi. This project opened my way into cognitive science and psychophysical studies. Realising how little we know about brain, that spark was ignited again. Albeit, researching in a developing country with the ongoing economic crisis has  I started studying neuroscience, worked in labs along physiologists, gathering and processing neural data from rats and monkeys. I assisted in establishing and stabilizing recording paradigm for behaving rats and head-fixed monkeys in BCoLab and Jajlab, respectively. Moreover, I helped analysing the recordings when needed. On my master's thesis, I'm currently working on ordinal and caregorical decoding of neural responses of macaque's prefrontal cortex and inferior temporal cortex and I aim at finding out whether if local dynamics associate such decodings and how the interactions between these two areas enhances the neural readability.
+
+Having a lot of unanswered questions, I decided to continue research in neuroscience. I am interested in knowing how the brain perceives sensory information, how the different areas engage in daily cognitive tasks and what phenomenon in the brain activity builds up our perception of the environment. I am interested in higher-order associations in our brains that creates different layers of abstraction and high-level congitive functions, like perception and decision making.
+
+<!-- As I am graduating my master's, I have had acquired a repertoire of skills necessary for neuroscience research, along with patience and perseverance and now, I'm eager to use them as a phd candidate. -->
+
+<!-- Interested in mathematics and physics, I recieved my diploma in National Organization for Development of Exceptional Talents (NODET). 
 As I was studing electrical engineering, I got interested in control branch.
 Graduated B.Sc. as rank 3.
 Started my masters at the same university, Straight
 Took machine learning courses
-interested in system neuroscience
-
-Projects related to Computational Neuroscience
-======
-1. Comparison of cateorical representation dynamics within inferior-temporal and pre-frontal cortex
-   1. Using single unit data gathered from non-human primates
-   2. Using electroencephalographic recordings from humans
-2. Quantification of local field's information of spatial cues in macaque's frontal eye field in different cognitive states
-3. Effects of L-Arginine and L-Name on spectral features of prefrontal cortex in Streptozotocin-induced models of alzheimer
-4. Altertion of neural connectivity in Alzheimer model of rodents
-5. Categorical representation dynamics of human brain, a SEEG study
-
-Other Projects
-------
-1. Setting up the recording paradigm of Jajlab (The new electrophysiological labaratory located at primate center of Royan Institute)
-2. Establishing a low-price stable system for recording from behaving rats
-3. Rats as a visual model: How are Gabor stimuli characteristics decoded in hooded rats primary visual cortex?
-4. Developing a table-mounted, low-cost, realtime eye-tracking system (as the bachelor's thesis)
-5. Designing CT-Scan based surgical head-posts and recording chambers for macaques
-6. Designing a basic stereotactic apparatus neeed for a specific electrode implanting surgery routine 
-7. Hich Pich: A deep learning based approach to predict NFT prices based on the corresponding images
+interested in system neuroscience -->
 
 <!-- 
 Create content & metadata
